@@ -1,2 +1,2 @@
-# ML_Class
-ML_Class_Report
+# Machine_Learning_Class
+Machine_Learning

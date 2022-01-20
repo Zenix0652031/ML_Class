@@ -1,0 +1,28 @@
+	GitHub account:
+https://github.com/Zenix70750
+	“What” will be your final project: the scenario(情境)
+	Group members: 1~4
+	Ex. Game auto played by your ML
+	The scenario:
+預測某檔股票一週後收盤價相對今日收盤價是漲或跌
+	Find some definitions about AI and machine learning
+人工智慧是指透過普通電腦程式來呈現人類智慧的技術。該詞也指出研究這樣的智慧系統是否能夠達成，以及如何達成。
+人工智慧的四個主要組成部分：
+1.	專家系統：作為專家處理正在審查的情況，併產生預期或預期的績效。
+2.	啟發式問題解決：包括評估小範圍的解決方案，並可能涉及一些猜測，以找到接近最佳的解決方案。
+3.	自然語言處理：在自然語言中達成人機之間的交流。
+4.	計算機視覺：自動生成識別形狀和功能的能力
+
+		機器學習是人工智慧的一個分支。機器學習是實現人工智慧的一個途徑，	即以機器學習為手段解決人工智慧中的問題。
+		機器學習有下面幾種定義：
+1.	機器學習是一門人工智慧的科學，該領域的主要研究物件是人工智慧，特	別是如何在經驗學習中改善具體演算法的效能。
+2.	機器學習是對能通過經驗自動改進的電腦演算法的研究。
+3.	機器學習是用資料或以往的經驗，以此最佳化電腦程式的效能標準。-
+	Name some supervised classifiers: 
+SVM、KNN
+	Name some unsupervised classifiers:
+K-means、
+	Name some supervised ML models:
+線性迴歸（Linear Regression）、決策樹（Decision Tree）、隨機森林（Random Forest）、類神經網路（Neural Network）、梯度提升決策樹（Gradient Booting Tree）
+	Name some unsupervised ML models:
+分群（Clustering）、關聯（Association）與降維（Dimension Reduction）
